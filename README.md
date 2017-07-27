@@ -115,4 +115,4 @@ The two JSON representations above should be in two files: `products.json`, and 
 
 # Resources
 
-1. Use [JSON Lint](http://www.jsonlint.com) to validate your JSON documents.
+1. Use [JSON Lint](http://www.jsonlint.com) to validate your JSON documents. 
